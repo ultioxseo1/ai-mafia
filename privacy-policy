@@ -1,0 +1,248 @@
+Privacy Policy
+Effective Date: February 2026
+
+1. Introduction
+Azar Bilişim Ltd ("Company", "we", "our", or "us") develops and publishes mobile applications and games for iOS, Android, and other platforms (collectively, the "Apps").
+
+This Privacy Policy explains how we collect, use, process, store, share, and protect information when you use our Apps.
+
+We are committed to transparency and protecting user privacy in compliance with applicable laws and platform requirements.
+
+2. Information We Collect
+We collect only the information necessary to provide App functionality.
+
+2.1 User-Provided Content
+Depending on the App's features, users may voluntarily provide:
+
+Photos or images
+Images containing faces
+Text prompts for AI features
+Content generated within the App
+Content is processed solely to deliver requested functionality.
+
+2.2 Device and Technical Information
+We may automatically collect limited technical data, including:
+
+Device type and model
+Operating system version
+App version
+Anonymous usage analytics
+Crash reports and diagnostics
+IP address (as part of normal internet communication)
+This information is used for security, stability, and performance improvement.
+
+We do NOT collect:
+
+Government identification numbers
+Financial account information
+Biometric identifiers
+Health records
+3. Face Data and Image Processing
+Some Apps may include features such as:
+
+AI image generation
+Face transformation
+Avatar creation
+Artistic filters
+Style transfer
+3.1 What Face Data Is Collected
+If a user uploads an image containing a face, the App processes:
+
+Visual image data
+Facial features visible in the image
+We do NOT collect or generate:
+
+Facial recognition templates
+Face geometry maps
+Biometric identifiers
+Identity verification data
+We do NOT use face data for identification purposes.
+
+3.2 Purpose of Face Data Processing
+Face data is processed solely to:
+
+Generate artistic transformations
+Create avatars
+Provide entertainment-based AI results
+We do NOT:
+
+Identify individuals
+Perform facial recognition
+Verify identity
+Create user behavioral profiles
+Face data is used only to deliver the specific feature requested by the user.
+
+3.3 Face Data Sharing
+To generate AI-based results, uploaded images (including images containing faces) may be securely transmitted to third-party AI service providers.
+
+These providers may include:
+
+OpenAI
+Google Gemini
+DeepSeek AI
+Cloud infrastructure providers necessary for processing
+Data transmitted may include:
+
+Uploaded image
+Text prompt
+Technical metadata required for processing
+We do NOT sell face data.
+
+We require third-party providers to process data under their own privacy and security standards that provide equal or comparable protection.
+
+3.4 Face Data Retention
+Images are transmitted only for processing.
+We do NOT maintain a face database.
+We do NOT retain uploaded face images on our servers after processing.
+Processing is temporary and limited to the time necessary to generate results.
+Generated images are typically stored locally on the user's device.
+Users may delete stored content at any time.
+We do NOT use face data to train our own AI models.
+
+4. Explicit User Consent
+Where required by law or platform policy, the App requests explicit user consent before:
+
+Transmitting images to third-party AI services
+Processing images containing faces
+Accessing device location
+Users may withdraw consent at any time by discontinuing use of the feature or disabling permissions in device settings.
+
+5. Third-Party AI Service Providers
+To provide AI-powered functionality, the App may transmit user-submitted content to third-party providers.
+
+Data transmitted may include:
+
+Images
+Images containing faces
+Text prompts
+Technical request metadata
+Third-party providers process data under their own privacy policies and security frameworks.
+
+We do not control third-party data practices beyond the scope of requested processing.
+
+We do not sell or rent personal data.
+
+6. Location Data and Map Services
+Some Apps may request access to location services.
+
+6.1 Location Access
+If enabled by the user, the App may access:
+
+Approximate location
+Precise GPS location
+Location data is used solely to:
+
+Display maps
+Show nearby content
+Enable location-based features
+Location access is optional and may be disabled at any time.
+
+6.2 Map Providers
+Apps may use:
+
+OpenStreetMap (OSM)
+Open-source map tile providers
+When maps are displayed:
+
+Map tile requests may include IP address and device information as part of normal internet communication.
+We do NOT maintain a location history database.
+
+6.3 Location Retention
+We do NOT:
+
+Store GPS history
+Track users in the background
+Sell location data
+Use location data for advertising
+Location data is used only during active sessions.
+
+7. Health Data
+Our Apps do NOT collect, process, analyze, infer, or store health-related information.
+
+We do NOT:
+
+Diagnose medical conditions
+Provide medical advice
+Analyze medical images
+Infer physical or mental health status
+Use face data to determine health conditions
+The App is intended solely for entertainment and creative purposes.
+
+8. Purpose of Data Processing
+We process data only to:
+
+Provide AI-powered features
+Enable App functionality
+Improve performance and stability
+Maintain security
+Comply with legal obligations
+We do NOT use user content for:
+
+Advertising resale
+Behavioral profiling
+Unauthorized AI training
+9. Data Sharing
+We may share information only with:
+
+AI processing providers
+Cloud infrastructure providers
+Analytics providers (anonymized data only)
+Legal authorities when required by law
+We do not sell personal data.
+
+10. Data Security
+We implement reasonable security measures, including:
+
+Encrypted HTTPS transmission
+Secure API communication
+Access controls
+However, third-party providers operate under their own security systems.
+
+11. Children's Privacy
+Our Apps are not directed to children under 13 (or the minimum age in the applicable jurisdiction).
+
+We do not knowingly collect personal data from children.
+
+12. User Rights
+Depending on applicable law, users may have the right to:
+
+Access personal data
+Request correction
+Request deletion
+Withdraw consent
+File complaints with supervisory authorities
+Contact: info@evraktakibi.com
+
+13. Data Retention Summary
+Uploaded images: retained only during processing
+Face data: not stored after processing
+Location data: not stored
+Analytics data: retained in anonymized form for performance monitoring
+14. Face Data Collection and Use (AI Makeup Studio)
+AI Makeup Studio uses your device's camera to capture facial photographs for the following purposes:
+
+AI Face Analysis: To generate a personalized beauty and skincare analysis report
+AI Makeup Generation: To create virtual makeup looks based on your photo
+What face data we collect: Your facial photograph is captured using your device's front-facing camera. On-device facial landmark detection (using Google ML Kit) processes head orientation, smile probability, and eye openness data locally on your device. This on-device data never leaves your phone.
+
+How face data is processed: Your facial photograph is sent securely via encrypted HTTPS connection to Google AI (Gemini API) for face analysis, and to our AI image processing service for makeup generation. These services process your photo in real-time to generate results and return them to the app.
+
+Data retention: Your facial photographs are NOT stored on any server after processing. Photos are transmitted, processed, and immediately discarded by the third-party AI services. No facial photographs or face data are retained, archived, or stored in any database by us or our third-party service providers.
+
+Third-party AI services:
+
+Google AI (Gemini API) — receives your facial photo for beauty analysis. Google's privacy policy applies: https://policies.google.com/privacy
+AI Image Processing Service — receives your photo for virtual makeup rendering. Photos are processed in real-time and not stored.
+Both third-party services receive only the facial photograph necessary to provide the requested feature. No additional personal information (name, email, location, device identifiers) is sent alongside your photo.
+
+Data sharing: We do not sell, trade, or share your facial photographs or face data with any party for advertising, marketing, analytics, or any purpose other than providing the specific AI feature you requested.
+
+User consent: The app requests your explicit consent before sending any facial photograph to third-party AI services. You may decline, in which case no data is transmitted. Your consent preference is stored locally on your device.
+
+Your rights: Since we do not store your facial photographs or face data on any server, there is no retained data to delete. All processing is transient and real-time.
+
+14.1 AI-Generated Content Disclaimer
+All analysis results, beauty recommendations, and skincare advice provided by AI Makeup Studio are AI-generated predictions for entertainment and cosmetic recommendation purposes only. They do not constitute medical diagnosis, dermatological assessment, or health advice. Consult a qualified healthcare professional for any skin health concerns.
+
+15. Changes to This Policy
+We may update this Privacy Policy from time to time.
