@@ -1,0 +1,109 @@
+Terms of Service
+Effective Date: February 2026
+
+Azar bilişim Ltd
+
+1. Acceptance of Terms
+By downloading, installing, or using any mobile application or game published by Azar bilişim Ltd ("Company", "we", "us"), you agree to these Terms of Service.
+
+If you do not agree, you must not use our Apps.
+
+2. Description of Services
+Our Apps may provide:
+
+AI-powered image generation
+Face transformation features
+Location-based services
+Map integrations (including OpenStreetMap)
+Mobile games and entertainment services
+Features may vary by application.
+
+3. User Responsibilities
+You agree not to:
+
+Upload unlawful, harmful, or infringing content
+Upload images of others without permission
+Use the Apps for harassment, impersonation, or fraud
+Reverse engineer or attempt to extract source code
+You are solely responsible for the content you upload.
+
+4. AI-Generated Content
+Our Apps may use third-party AI providers (e.g., Google Gemini, DeepSeek) to generate content.
+
+You acknowledge that:
+
+AI-generated results may be inaccurate or unpredictable
+We do not guarantee specific outcomes
+Generated content is provided "as is"
+You are responsible for how you use generated content.
+
+5. Face and Image Processing
+If you upload an image containing a face:
+
+It is processed solely for artistic or entertainment purposes
+No biometric identification is performed
+No facial recognition templates are created
+You must have the right to use any image you upload.
+
+6. Location-Based Services
+Some Apps may request location access to:
+
+Display maps
+Provide location-based features
+Location permission is optional.
+We do not store GPS history.
+
+7. Intellectual Property
+All App content, branding, design, and software are owned by AI Art Generator Ltd unless otherwise stated.
+
+You may not copy, distribute, or modify the Apps without permission.
+
+8. Limitation of Liability
+To the maximum extent permitted by law:
+
+We are not liable for indirect, incidental, or consequential damages
+We are not responsible for third-party AI provider actions
+Use of the Apps is at your own risk
+9. Termination
+We may suspend or terminate access if:
+
+You violate these Terms
+Required by law
+10. Changes to Terms
+We may update these Terms at any time.
+Continued use of the Apps constitutes acceptance of updates.
+
+11. Health-Related Information and Medical Disclaimer
+Some Apps may allow users to enter health, wellness, nutrition, or fitness-related information for informational support features powered by third-party AI services (including Google Gemini, DeepSeek, and OpenAI).
+
+You acknowledge and agree that:
+
+Our Apps do NOT provide medical advice, diagnosis, or treatment.
+Any health-related output is general informational content only.
+Users should consult qualified healthcare professionals (such as licensed doctors or registered dietitians) before acting on health-related information.
+In medical emergencies, users must contact local emergency services immediately.
+Unless explicitly disclosed in a specific App feature, health-related inputs are not stored in a centralized server database and generated outputs are primarily kept on the user's own device.
+
+12. Face Data Collection and Use (AI Makeup Studio)
+AI Makeup Studio uses your device's camera to capture facial photographs for:
+
+AI Face Analysis to generate a personalized beauty and skincare analysis report
+AI Makeup Generation to create virtual makeup looks based on your photo
+Your facial photograph may be securely transmitted via encrypted HTTPS to third-party AI services, including Google AI (Gemini API) for beauty analysis and an AI image processing service for virtual makeup rendering. Processing is real-time and feature-limited.
+
+On-device facial landmark detection (Google ML Kit), including head orientation, smile probability, and eye openness, is processed locally on your device and does not leave your phone.
+
+We do not sell, trade, or share facial photographs for advertising, marketing, or unrelated analytics. No additional personal information (such as name, email, location, or device identifiers) is sent with your facial photograph beyond what is technically necessary to provide the requested feature.
+
+Facial photographs are not retained after processing by us. Processing is transient, and images are not archived in our database.
+
+12.1 User Consent and Rights
+The App requests explicit user consent before transmitting facial photographs to third-party AI services. You may decline consent, in which case no facial photo is transmitted. Consent preference may be stored locally on your device.
+
+Because facial photographs are not retained on our servers after processing, there is typically no server-side face data record to delete.
+
+12.2 AI-Generated Content Disclaimer
+All analysis results, beauty recommendations, and skincare suggestions are AI-generated outputs for entertainment and cosmetic recommendation purposes only. They do not constitute medical diagnosis, dermatological assessment, or health advice. Consult a qualified healthcare professional for skin health concerns.
+
+13. Governing Law
+These Terms are governed by the laws of the Türkiye.
